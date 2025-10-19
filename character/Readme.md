@@ -12,3 +12,12 @@ Each query retrieves `id`, `name`, `status`, `species`, `type`, and `gender` fie
 - `character-id-3-output.json`
 - `character-id-4.graphql`
 - `character-id-4-output.json`
+
+
+# alx-graphql-0x00/
+ │
+ └── character/
+    ├── README.md
+    ├── character-id-1.graphql
+    ├── character-id-1-output.json
+    └── ...
