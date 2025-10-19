@@ -33,5 +33,4 @@ curl -X POST http://localhost:4000/graphql \
 - For authenticated endpoints add an Authorization header:
   -H "Authorization: Bearer <TOKEN>"
 
-## Author
-- Your Name
+
